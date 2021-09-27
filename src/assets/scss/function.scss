@@ -1,0 +1,9 @@
+@use 'sass:math';
+
+@function px2vw($value) {
+  @return math.div($value, $ui-width) * 100vw;
+}
+
+@function px2vh($value) {
+  @return math.div($value, $ui-height) * 100vh;
+}

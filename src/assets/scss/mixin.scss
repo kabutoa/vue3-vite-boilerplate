@@ -1,0 +1,13 @@
+@mixin muti-h {
+  @for $i from 1 through 6 {
+    h#{7 - $i} {
+      @content;
+    }
+  }
+}
+
+@mixin center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
