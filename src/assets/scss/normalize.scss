@@ -32,3 +32,10 @@ body {
   font-style: normal;
   font-weight: normal;
 }
+
+button,
+input {
+  background: transparent;
+  border: none;
+  outline: none;
+}
