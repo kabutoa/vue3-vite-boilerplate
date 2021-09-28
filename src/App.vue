@@ -1,18 +1,11 @@
-<template>hello world</template>
+<template>
+  <router-view></router-view>
+</template>
 
 <script lang="ts">
-import { defineComponent } from "vue";
+import { defineComponent } from 'vue'
 
 export default defineComponent({
-  setup() {},
-});
+  setup() {}
+})
 </script>
-
-
-<style>
-#app {
-  position: relative;
-  width: 100%;
-  height: 100%;
-}
-</style>
