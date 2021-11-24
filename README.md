@@ -1,3 +1,3 @@
-# Vue 3 Boilerplate
+# Vue3 Boilerplate
 
-开箱即用的模版
+开箱即用的开发模版
