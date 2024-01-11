@@ -1,0 +1,7 @@
+:root {
+  /* font */
+  --font-base: Avenir, Helvetica, Arial, sans-serif;
+  /* ui */
+  --ui-width: 750;
+  --ui-height: 1284;
+}

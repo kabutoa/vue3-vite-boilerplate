@@ -1,6 +1,3 @@
-@import 'variable.css';
-@import 'normalize.css';
-
 @define-mixin center {
   display: flex;
   align-items: center;
